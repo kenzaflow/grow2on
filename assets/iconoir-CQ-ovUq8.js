@@ -1,0 +1,1 @@
+import{j as t}from"./index-Cc6QVY8e.js";import{i}from"./IconoirContext-CoE5LRDl.js";function s({children:r}){const o={color:"currentColor",width:"1.25rem",height:"1.25rem",strokeWidth:1.5};return t.jsx(i,{iconProps:o,children:r})}export{s as default};
