@@ -1,0 +1,1 @@
+import{j as t,bb as i}from"./index-BIHTKfuA.js";function l(){return t.jsxs(t.Fragment,{children:[t.jsx(i,{title:"title",children:"children"}),t.jsx(i,{title:"title",color:"blue",children:"children"}),t.jsx(i,{title:"title",color:"red",children:"children"}),t.jsx(i,{title:"title",color:"violet",children:"children"})]})}export{l as default};
